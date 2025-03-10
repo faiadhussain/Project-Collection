@@ -1,25 +1,29 @@
 {
     "id": 4,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
-    "token_id": "4",
+    "image": "https://faiadhussain.github.io/Project-Collection/Sword.png",
+    "token_id": "sword",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Sword",
+    "description": "Just a humble trusty sword",
     "external_url": null,
     "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
+        {
+            "trait_type": "atk",
+            "value": "3"
+          },
+          {
+            "trait_type": "hp",
+            "value": "5"
+          },
+          {
+            "trait_type": "cost",
+            "value": "1"
+          },
+          {
+            "trait_type": "effect",
+            "value": "Just a trusty sword"
+          }
     ]
   }

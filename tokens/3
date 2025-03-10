@@ -1,25 +1,21 @@
 {
     "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
-    "token_id": "3",
+    "image": "https://faiadhussain.github.io/Project-Collection/Strengthen.png",
+    "token_id": "strengthen",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Strengthen",
+    "description": "A tech for strengthening your weapons",
     "external_url": null,
     "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
+        {
+            "trait_type": "cost",
+            "value": "1"
+          },
+          {
+            "trait_type": "effect",
+            "value": "Buff 1 of your weapons by 3 ATK"
+          }
     ]
   }

@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "image": "https://faiadhussain.github.io/Project-Collection/Bow.png",
+    "token_id": "bow",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Bow",
+    "description": "Just a humble little bow",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "atk",
+        "value": "2"
+      },
+      {
+        "trait_type": "hp",
+        "value": "3"
+      },
+      {
+        "trait_type": "cost",
+        "value": "1"
+      },
+      {
+        "trait_type": "effect",
+        "value": "Can attack directly. Does not take damage when attacking."
+      }
+    ]
+  }
